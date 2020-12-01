@@ -37,3 +37,4 @@ Myself **Tamojit Das** pursuing my bachelors degree in computer science and engi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamojit2000&theme=buefy&layout=compact&langs_count=10)](https://github.com/tamojit2000/github-readme-stats)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tamojit2000&repo=github-readme-stats)](https://github.com/tamojit2000/github-readme-stats)
