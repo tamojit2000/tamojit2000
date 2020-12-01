@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=380&width=fill&section=footer&text=Hello!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=380&section=footer&text=Hello!&fontSize=90)
 
 Myself **Tamojit Das** pursuing my bachelors degree in computer science and engineering from Institute of Engineering and Management, Kolkata. I am a fond of Machine Learning and Competitive Programming. I make Desktop Applications, Android Aplications, and Web Apps and give equal weightage to all of them. Sometimes i contribute to Open Source Projects.
 
@@ -25,6 +25,7 @@ Myself **Tamojit Das** pursuing my bachelors degree in computer science and engi
 <br/>
 
 <img width="26px" align="left" alt="VS" src="https://img.icons8.com/fluent/48/000000/visual-studio-2019.png"/>[Hackerrank](https://www.hackerrank.com/tamojitdas2000)
+<img width="26px" align="left" alt="VS" src="https://www.stockio.com/free-icon/hackerrank"/>[Hackerrank](https://www.hackerrank.com/tamojitdas2000)
 
 <br/>
 <br/>
