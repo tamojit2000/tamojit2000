@@ -24,11 +24,17 @@ Myself **Tamojit Das** pursuing my bachelors degree in computer science and engi
 <br/>
 <br/>
 
+[Hackerrank](https://www.hackerrank.com/tamojitdas2000)
+
+<br/>
+<br/>
+
+
 
 # Github Activity📊:
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tamojit2000&theme=buefy&show_icons=true&count_private=true&show_owner=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tamojit2000&theme=buefy&show_icons=true&count_private=true&show_owner=true&cache_seconds=1900" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamojit2000&theme=buefy&layout=compact&langs_count=10" />
 </a>
 
