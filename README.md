@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://komarev.com/ghpvc/?username=tamojit2000&color=blueviolet&style=plastic&label=VIEWS)
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=380&section=footer&text=Hello!&fontSize=90)
 
