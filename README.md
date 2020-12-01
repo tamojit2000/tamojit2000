@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=380&width=500&section=footer&text=Hello!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=380&width=fill&section=footer&text=Hello!&fontSize=90)
 
 Myself **Tamojit Das** pursuing my bachelors degree in computer science and engineering from Institute of Engineering and Management, Kolkata. I am a fond of Machine Learning and Competitive Programming. I make Desktop Applications, Android Aplications, and Web Apps and give equal weightage to all of them. Sometimes i contribute to Open Source Projects.
 
