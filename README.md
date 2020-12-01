@@ -24,6 +24,8 @@ Myself **Tamojit Das** pursuing my bachelors degree in computer science and engi
 <br/>
 <br/>
 
+[![Tamojit's github stats](https://github-readme-stats.vercel.app/api?username=tamojit2000)](https://github.com/tamojit2000/github-readme-stats)
+
 # Github Activity📊:
 
 <a href="https://github.com/AVS1508">
