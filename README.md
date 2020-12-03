@@ -25,7 +25,7 @@ Myself **Tamojit Das** pursuing my bachelors degree in computer science and engi
 <br/>
 <br/>
 
-<img width="26px" align="left" alt="VS" src="https://img.icons8.com/fluent/48/000000/visual-studio-2019.png"/>[Hackerrank](https://www.hackerrank.com/tamojitdas2000)<br/>
+<img width="26px" align="left" alt="VS" src="data/hackerrank.png"/>[Hackerrank](https://www.hackerrank.com/tamojitdas2000)<br/>
 <img width="26px" align="left" alt="VS" src=""/>[Hackerrank](https://www.hackerrank.com/tamojitdas2000)<br/>
 
 <br/>
