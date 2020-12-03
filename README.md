@@ -26,7 +26,10 @@ Myself **Tamojit Das** pursuing my bachelors degree in computer science and engi
 <br/>
 
 <img width="26px" align="left" alt="VS" src="data/hackerrank.png"/>[Hackerrank](https://www.hackerrank.com/tamojitdas2000)<br/>
-<img width="26px" align="left" alt="VS" src=""/>[Hackerrank](https://www.hackerrank.com/tamojitdas2000)<br/>
+<img width="26px" align="left" alt="VS" src="data/codeforces.png"/>[Codeforces](https://codeforces.com/profile/Tamojit)<br/>
+<img width="26px" align="left" alt="VS" src="data/codechef.jpg"/>[Codechef](https://www.codechef.com/users/tamojit2000)<br/>
+<img width="26px" align="left" alt="VS" src="data/kaggle.jpg"/>[Codechef](https://www.kaggle.com/tamojitdas2000)<br/>
+<img width="26px" align="left" alt="VS" src="data/dev.png"/>[Codechef](https://dev.to/tamojit2000)<br/>
 
 <br/>
 <br/>
