@@ -27,11 +27,11 @@ Myself **Tamojit Das** pursuing my bachelors degree in computer science and engi
 
 # My Activities:
 
-<img width="26px" alt="VS" src="data/hackerrank.png"/>[Hackerrank](https://www.hackerrank.com/tamojitdas2000)<br/>
-<img width="26px" alt="VS" src="data/codeforces.png"/>[Codeforces](https://codeforces.com/profile/Tamojit)<br/>
-<img width="26px" alt="VS" src="data/codechef.jpg"/>[Codechef](https://www.codechef.com/users/tamojit2000)<br/>
-<img width="26px" alt="VS" src="data/kaggle.jpg"/>[Codechef](https://www.kaggle.com/tamojitdas2000)<br/>
-<img width="26px" alt="VS" src="data/dev.png"/>[Codechef](https://dev.to/tamojit2000)<br/>
+<img width="26px" alt="VS" src="data/hackerrank.png"/>[Hackerrank](https://www.hackerrank.com/tamojitdas2000)<br/><br/>
+<img width="26px" alt="VS" src="data/codeforces.png"/>[Codeforces](https://codeforces.com/profile/Tamojit)<br/><br/>
+<img width="26px" alt="VS" src="data/codechef.jpg"/>[Codechef](https://www.codechef.com/users/tamojit2000)<br/><br/>
+<img width="26px" alt="VS" src="data/kaggle.jpg"/>[Kaggle](https://www.kaggle.com/tamojitdas2000)<br/><br/>
+<img width="26px" alt="VS" src="data/dev.png"/>[Dev](https://dev.to/tamojit2000)<br/>
 
 <br/>
 <br/>
