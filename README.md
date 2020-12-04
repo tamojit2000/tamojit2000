@@ -35,6 +35,7 @@ Myself **Tamojit Das** pursuing my bachelors degree in computer science and engi
 <img width="26px" align="center" alt="VS" src="data/sourceforge.png"/>[  Sourceforge]()<br/>
 <img width="26px" align="center" alt="VS" src="data/pythonanywhere.jpg"/>[  Pythonanywhere]()<br/>
 <img width="26px" align="center" alt="VS" src="data/playstore.png"/>[  Playstore]()<br/>
+<img width="26px" align="center" alt="VS" src="data/hacktoberfest.jpg"/>[  Hacktoberfest 2020]()<br/>
 
 <br/>
 <br/>
