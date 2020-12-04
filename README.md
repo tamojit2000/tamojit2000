@@ -31,10 +31,10 @@ Myself **Tamojit Das** pursuing my bachelors degree in computer science and engi
 <img width="26px" align="center" alt="VS" src="data/codeforces.png"/>[ Codeforces](https://codeforces.com/profile/Tamojit)<br/><br/>
 <img width="26px" align="center" alt="VS" src="data/codechef.jpg"/>[ Codechef](https://www.codechef.com/users/tamojit2000)<br/><br/>
 <img width="26px" align="center" alt="VS" src="data/kaggle.png"/>[ Kaggle](https://www.kaggle.com/tamojitdas2000)<br/><br/>
-<img width="26px" align="center" alt="VS" src="data/dev.png"/>[  Dev](https://dev.to/tamojit2000)<br/>
-<img width="26px" align="center" alt="VS" src="data/sourceforge.png"/>[  Sourceforge]()<br/>
-<img width="26px" align="center" alt="VS" src="data/pythonanywhere.jpg"/>[  Pythonanywhere]()<br/>
-<img width="26px" align="center" alt="VS" src="data/playstore.png"/>[  Playstore]()<br/>
+<img width="26px" align="center" alt="VS" src="data/dev.png"/>[  Dev](https://dev.to/tamojit2000)<br/><br/>
+<img width="26px" align="center" alt="VS" src="data/sourceforge.png"/>[  Sourceforge]()<br/><br/>
+<img width="26px" align="center" alt="VS" src="data/pythonanywhere.jpg"/>[  Pythonanywhere]()<br/><br/>
+<img width="26px" align="center" alt="VS" src="data/playstore.png"/>[  Playstore]()<br/><br/>
 
 <br/>
 <br/>
