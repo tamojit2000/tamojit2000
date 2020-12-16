@@ -32,9 +32,9 @@ Myself **Tamojit Das** pursuing my bachelors degree in computer science and engi
 <img width="35px" align="center" alt="VS" src="data/codechef.jpg"/>[ Codechef](https://www.codechef.com/users/tamojit2000)<br/><br/>
 <img width="35px" align="center" alt="VS" src="data/kaggle.png"/>[ Kaggle](https://www.kaggle.com/tamojitdas2000)<br/><br/>
 <img width="35px" align="center" alt="VS" src="data/dev.png"/>[  Dev](https://dev.to/tamojit2000)<br/><br/>
-<img width="35px" align="center" alt="VS" src="data/sourceforge.png"/>[  Sourceforge]()<br/><br/>
+<img width="35px" align="center" alt="VS" src="data/sourceforge.png"/>[  Sourceforge](https://sourceforge.net/u/tamojitdas2000)<br/><br/>
 <img width="35px" align="center" alt="VS" src="data/pythonanywhere.jpg"/>[  Pythonanywhere]()<br/><br/>
-<img width="35px" align="center" alt="VS" src="data/playstore.png"/>[  Playstore]()<br/><br/>
+<img width="35px" align="center" alt="VS" src="data/playstore.png"/>[  Playstore](https://play.google.com/store/apps/dev?id=5237727927432380012)<br/><br/>
 <img width="35px" align="center" alt="VS" src="data/hacktoberfest.jpg"/>[  Hacktoberfest 2020]()<br/>
 
 
