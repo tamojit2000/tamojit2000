@@ -28,14 +28,14 @@ Myself **Tamojit Das** pursuing my bachelors degree in computer science and engi
 # My Activities:
 
 <img width="35px" align="center" alt="VS" src="data/linkedin.png"/>[ LinkedIn](https://www.linkedin.com/in/tamojit-das-ab425b228/)<br/><br/>
+<img width="35px" align="center" alt="VS" src="data/playstore.png"/>[  Playstore](https://play.google.com/store/apps/dev?id=5237727927432380012)<br/><br/>
 <img width="35px" align="center" alt="VS" src="data/hackerrank.png"/>[ Hackerrank](https://www.hackerrank.com/tamojitdas2000)<br/><br/>
+<img width="35px" align="center" alt="VS" src="data/sourceforge.png"/>[  Sourceforge](https://sourceforge.net/u/tamojitdas2000)<br/><br/>
 <img width="35px" align="center" alt="VS" src="data/codeforces.png"/>[ Codeforces](https://codeforces.com/profile/Tamojit)<br/><br/>
 <img width="35px" align="center" alt="VS" src="data/codechef.jpg"/>[ Codechef](https://www.codechef.com/users/tamojit2000)<br/><br/>
 <img width="35px" align="center" alt="VS" src="data/kaggle.png"/>[ Kaggle](https://www.kaggle.com/tamojitdas2000)<br/><br/>
 <img width="35px" align="center" alt="VS" src="data/dev.png"/>[  Dev](https://dev.to/tamojit2000)<br/><br/>
-<img width="35px" align="center" alt="VS" src="data/sourceforge.png"/>[  Sourceforge](https://sourceforge.net/u/tamojitdas2000)<br/><br/>
 <img width="35px" align="center" alt="VS" src="data/pythonanywhere.jpg"/>[  Pythonanywhere]()<br/><br/>
-<img width="35px" align="center" alt="VS" src="data/playstore.png"/>[  Playstore](https://play.google.com/store/apps/dev?id=5237727927432380012)<br/><br/>
 <img width="35px" align="center" alt="VS" src="data/hacktoberfest.jpg"/>[  Hacktoberfest 2020]()<br/>
 
 
